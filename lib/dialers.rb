@@ -1,7 +1,5 @@
 require "dialers/version"
 require "faraday"
-require "faraday_middleware"
-require "faraday/conductivity"
 require "dialers/assign_attributes"
 require "dialers/errors"
 require "dialers/request_options"
